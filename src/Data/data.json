@@ -1,0 +1,142 @@
+{
+  "Header": {
+    "title": "Welcome to Lavie Nail Bar",
+    "paragraph": "You're one step closer to arriving at one of the most luxurious places in Frisco, TX, where we strive to meet the services you need. Appointment are recommended and we look forward to seeing you!"
+  },
+  "About": {
+    "paragraph": "Conveniently located off State Hwy 121, we always make our best efforts to bring the best comfort and convenience to our clients. With luxurious decorations and harmoni designs in a cozy atmosphere, our clients can immerse themselves in our relaxing treatments to escape from everyday stress and busy lifestyle. Our staff are here to ensure that our clients always have a positive and high quality experience.",
+    "Why": [
+      "Up to date with latest nail trends",
+      "Variety of complimentary wine, margaritas and soft drinks",
+      "Disposable nail files, pumice stones and spa liners"
+    ],
+    "Why2": [
+      "Fully trained and licensed staff",
+      "Host your next bridal, bachelorette, birthday or any special event",
+      "Gift card specials"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Midnight Haze",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/chel9.jpg"
+    },
+    {
+      "title": "Sassy Sweetness",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/chel3.jpg"
+    },
+    {
+      "title": "BabyBlue Bliss",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/chel2.jpg"
+    },
+    {
+      "title": "Sea Queen",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/chel4.jpg"
+    },
+    {
+      "title": "Queen of Lavie",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/chel1.jpg"
+    },
+    {
+      "title": "Vicious",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/chel6.jpg"
+    },
+    {
+      "title": "Lucent Grays",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/chel8.jpg"
+    },
+    {
+      "title": "Bewitched",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/chel7.jpg"
+    },
+    {
+      "title": "Ice Queen",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/chel5.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Pedicures",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Manicures",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Waxing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Nail Enhancements",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Sculpting",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Facial Treatments",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Contact": {
+    "address": "5353 Independence Parkway suite 200 Frisco, TX 75035",
+    "phone": "(469) 640-1326 OR (214) 606-1783",
+    "email": "ConHeo@gmail.com"
+  },
+
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Like us on Facebook!",
+      "text": "Link here"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Announcements",
+      "text": "We are closed Thanksgiving from 11/25 and will reopen 2099"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Updates",
+      "text": "New products arrived! Come in NOWW OR ELSE"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Spread the Loooveee",
+      "text": "Not viruses"
+    }
+  ],
+
+
+"Hero": [
+    {
+      "title": "First Image",
+      "image": "img/portfolio/chel5.jpg",
+      "text": "text here"
+    },
+      {
+        "title": "Second Image",
+      "image": "img/portfolio/chel4.jpg",
+        "text": "text here"
+      }
+
+]
+}
+
