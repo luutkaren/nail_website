@@ -11,7 +11,8 @@ html {
   padding: 0;
   overflow-x: hidden;
 }
-#header, .overlay {
+#header,
+.overlay {
   height: 100vh;
 }
 h2,
@@ -259,6 +260,10 @@ header .intro-text {
 /* Features Section */
 #features {
   background: #f6f6f6;
+}
+#features-list {
+  display: inline-flex;
+  justify-content: center;
 }
 #features i.fa {
   font-size: 38px;

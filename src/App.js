@@ -44,7 +44,6 @@ import {
   CSSReset
 } from '@chakra-ui/react';
 import { useState, useEffect } from "react";
-// import { ParallaxProvider } from "react-scroll-parallax";
 import { Navigation } from "./components/Navigation";
 import { Header } from "./components/Header";
 import { Features } from "./components/Features";
@@ -52,11 +51,9 @@ import { About } from "./components/About";
 import { Services } from "./components/Services";
 import { Gallery } from "./components/Gallery";
 import { Contact } from "./components/Contact";
-import { Hero } from "./components/hero/Hero";
-import Footer from "./components/Footer"
+
 import JsonData from "./Data/data.json";
 import "./App.css";
-
 
 const App = () => {
   const [ landingPageData, setLandingPageData ] = useState({});
@@ -69,12 +66,12 @@ const App = () => {
       <CSSReset />
         <Navigation />
         <Header data={ landingPageData.Header } />
-        {/* <Hero data ={ landingPageData.Hero } /> */}
         <Features data={ landingPageData.Features } />
         <About data={ landingPageData.About } />
         <Services data={ landingPageData.Services } />
         <Gallery data={ landingPageData.Gallery } />
         <Contact data={ landingPageData.Contact } />
+
     </>
   );
 };

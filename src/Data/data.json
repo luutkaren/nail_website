@@ -65,45 +65,44 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-heart",
       "name": "Pedicures",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "The LaVie (Volcano Spa) . . . . . . . . . . . . . . . . $85 Collage Spa Pedicure  . . . . . . . . . . . . . . . . . . . $68 THE BATH BOMB  . . . . . . . . . . . . . . . . . . . . . . .$52 The Heavenly . . . . . . . . . . . . . . . . . . . . . . . . . . $42 The Classic . . . . . . . . . . . . . . . . . . . . . . . . . . . . $32"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-leaf",
       "name": "Manicures",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Collegen Spa Manicure . . .  . . . . . . . . . . . . . . .$45 The LaVie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .$35 THE Heavenly . . . . . . . . . . . . . . . . . . . . . . . . . . $25 The Classic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $20"
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-diamond",
       "name": "Waxing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Eyebrows: . . . . . . . . . . . . . . . . . . . . . . . . $10 Eyebrows Tint. . . . .  . . . . . . . . . . . . . . . . . . . . . $20 Lip & Chin . . . . . . .  . . . . . . . . . . . . . . . . . $8 each Sideburns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $10 Full Face. . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . $35 Under Arms . . .. . . . . . . . . . . . . . . . . . . . . . . . . $25+ Full Arms / Half Arms . . . . . . . . . . . . $40+ / $30+ Full Leg / Half Leg . . . . . . . . . . . . . . $35+ / $55+ Bikini / Brazilian . . . . . . . . . . . . . . . . . $35+ / $65+ Full Back / Half Back . . . . . . . . . . . . .$45+ / $35+ Stomach / Chest. . . . . . . . . . . . . . . . . $20+ / $30+"
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-star",
       "name": "Nail Enhancements",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Solar P&W / Refill: . . . . . . . . . . . . . . $42 / $37 Color Tip Set / Refill . . . . . . . . . . . . . .  $47/$40 Regular Set . . . . . . . . . . . . . . . . . . . . . . . . . . $35 French/American Set . . . . . . . . . . . . . . . . . $32 Regular/Pink Fill . . . . . . . . . . . . . . . . . . . . . $22"
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-trophy",
       "name": "Sculpting",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Microblading: . . . . . . . . . . . . . . . . . . . . $350  Shading Shadow Tint (3-6 mo). . . . . . . $100 Shading Shadow Tint (12-18 mo) . . . . $200 Touch Up . . . . . . . . . . . . . . . . . . . . . . .$150+ Remove . . . . . . . . . . . . . . . . . . . . . .  $50"
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-magic",
       "name": "Facial Treatments",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Express (30 min): . . . . . . . . . . . . . . . . . . . . . . . $35 Teen Dream (50 min) . . . . . . . . . . . . . . . . . . . $55 Gentlemen's (60 min). . . . . . . . . . . . . . . . . . . .  $65 Lavie's Signature (60 mins) . . . . . . . . . . . . . . $70 The Organic Ice & Fire (90 min) . . . . . . . . . $100"
     }
   ],
   "Contact": {
     "address": "5353 Independence Parkway suite 200 Frisco, TX 75035",
     "phone": "(469) 640-1326 OR (214) 606-1783",
-    "email": "ConHeo@gmail.com"
+    "email": "MinhNgo4143@gmail.com"
   },
-
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-check",
       "title": "Like us on Facebook!",
       "text": "Link here"
     },
@@ -113,30 +112,14 @@
       "text": "We are closed Thanksgiving from 11/25 and will reopen 2099"
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-arrow-up",
       "title": "Updates",
-      "text": "New products arrived! Come in NOWW OR ELSE"
+      "text": "New product drop! "
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-heart",
       "title": "Spread the Loooveee",
-      "text": "Not viruses"
+      "text": "Feedback on your recent experience"
     }
-  ],
-
-
-"Hero": [
-    {
-      "title": "First Image",
-      "image": "img/portfolio/chel5.jpg",
-      "text": "text here"
-    },
-      {
-        "title": "Second Image",
-      "image": "img/portfolio/chel4.jpg",
-        "text": "text here"
-      }
-
-]
+  ]
 }
-

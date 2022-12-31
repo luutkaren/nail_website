@@ -1,9 +1,9 @@
 import { Image } from "./Image";
-import { Container } from "@chakra-ui/layout";
+
 export const Gallery = (props) => {
   return (
     <div id='portfolio' className='text-center'>
-      <Container className='container'>
+      <div className='container'>
         <div className='section-title'>
           <h2>Gallery</h2>
           <p>
@@ -12,16 +12,16 @@ export const Gallery = (props) => {
         </div>
         <div className='row'>
           <div className='portfolio-items'>
-            {props.data
+            { props.data
               ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className='col-sm-6 col-md-4 col-lg-4'>
-                  <Image title={d.title} largeImage={d.largeImage} smallImage={d.smallImage} />
+                <div key={ `${ d.title }-${ i }` } className='col-sm-6 col-md-4 col-lg-4'>
+                  <Image title={ d.title } largeImage={ d.largeImage } smallImage={ d.smallImage } />
                 </div>
               ))
-              : 'Loading...'}
+              : 'Loading...' }
           </div>
         </div>
-      </Container>
+      </div>
     </div>
   )
 }
